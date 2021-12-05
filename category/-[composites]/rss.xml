@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>yumenonaka • Posts by &#34;-[composites]&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 05 Dec 2021 23:12:12 +0800</pubDate>
+        <lastBuildDate>Sun, 05 Dec 2021 23:12:12 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/</guid>
+            <title>python笔记</title>
+            <link>http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/</link>
+            <pubDate>Sun, 05 Dec 2021 23:12:12 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;python笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python笔记&#34;&gt;#&lt;/a&gt; python 笔记&lt;/h2&gt;
+&lt;h3 id=&#34;1整型int&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1整型int&#34;&gt;#&lt;/a&gt; 1. 整型（int）&lt;/h3&gt;
+&lt;p&gt;运算：+&lt;/p&gt;
+&lt;p&gt;​			*&lt;/p&gt;
+&lt;p&gt;​			/&lt;/p&gt;
+&lt;p&gt;​			%	 余数&lt;/p&gt;
+&lt;p&gt;​			**	次方&lt;/p&gt;
+&lt;h3 id=&#34;2字符串str&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2字符串str&#34;&gt;#&lt;/a&gt; 2. 字符串（str）&lt;/h3&gt;
+&lt;h3 id=&#34;3布尔类型bool&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3布尔类型bool&#34;&gt;#&lt;/a&gt; 3. 布尔类型（bool)&lt;/h3&gt;
+&lt;p&gt;除了 bool (&amp;quot; &amp;quot;) 和 bool (“0”) 为 false 其他全为 true&lt;/p&gt;
+&lt;h2 id=&#34;变量&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变量&#34;&gt;#&lt;/a&gt; 变量&lt;/h2&gt;
+&lt;h3 id=&#34;1变量名的规范&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1变量名的规范&#34;&gt;#&lt;/a&gt; 1. 变量名的规范&lt;/h3&gt;
+&lt;p&gt;变量名只能以字母、数字、下划线组成&lt;/p&gt;
+&lt;p&gt;不能以数字开头&lt;/p&gt;
+&lt;p&gt;不能用 Python 内置的关键字&lt;/p&gt;
+&lt;h3 id=&#34;2变量内存指向关系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2变量内存指向关系&#34;&gt;#&lt;/a&gt; 2. 变量内存指向关系&lt;/h3&gt;
+&lt;h2 id=&#34;input&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#input&#34;&gt;#&lt;/a&gt; Input&lt;/h2&gt;
+&lt;p&gt;input 输入的都是字符串&lt;/p&gt;
+&lt;h2 id=&#34;多条件判断&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#多条件判断&#34;&gt;#&lt;/a&gt; 多条件判断&lt;/h2&gt;
+&lt;p&gt;if A&lt;/p&gt;
+&lt;p&gt;elif B&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

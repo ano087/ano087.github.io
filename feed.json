@@ -5,6 +5,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/",
+            "url": "http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/",
+            "title": "python笔记",
+            "date_published": "2021-12-05T15:12:12.655Z",
+            "content_html": "<h2 id=\"python笔记\"><a class=\"markdownIt-Anchor\" href=\"#python笔记\">#</a> python 笔记</h2>\n<h3 id=\"1整型int\"><a class=\"markdownIt-Anchor\" href=\"#1整型int\">#</a> 1. 整型（int）</h3>\n<p>运算：+</p>\n<p>​\t\t\t*</p>\n<p>​\t\t\t/</p>\n<p>​\t\t\t%\t 余数</p>\n<p>​\t\t\t**\t次方</p>\n<h3 id=\"2字符串str\"><a class=\"markdownIt-Anchor\" href=\"#2字符串str\">#</a> 2. 字符串（str）</h3>\n<h3 id=\"3布尔类型bool\"><a class=\"markdownIt-Anchor\" href=\"#3布尔类型bool\">#</a> 3. 布尔类型（bool)</h3>\n<p>除了 bool (&quot; &quot;) 和 bool (“0”) 为 false 其他全为 true</p>\n<h2 id=\"变量\"><a class=\"markdownIt-Anchor\" href=\"#变量\">#</a> 变量</h2>\n<h3 id=\"1变量名的规范\"><a class=\"markdownIt-Anchor\" href=\"#1变量名的规范\">#</a> 1. 变量名的规范</h3>\n<p>变量名只能以字母、数字、下划线组成</p>\n<p>不能以数字开头</p>\n<p>不能用 Python 内置的关键字</p>\n<h3 id=\"2变量内存指向关系\"><a class=\"markdownIt-Anchor\" href=\"#2变量内存指向关系\">#</a> 2. 变量内存指向关系</h3>\n<h2 id=\"input\"><a class=\"markdownIt-Anchor\" href=\"#input\">#</a> Input</h2>\n<p>input 输入的都是字符串</p>\n<h2 id=\"多条件判断\"><a class=\"markdownIt-Anchor\" href=\"#多条件判断\">#</a> 多条件判断</h2>\n<p>if A</p>\n<p>elif B</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2021/12/05/hello-world/",
             "url": "http://example.com/2021/12/05/hello-world/",
             "title": "Hello World",

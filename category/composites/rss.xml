@@ -1,14 +1,18 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>yumenonaka • Posts by &#34;-[composites]&#34; category</title>
-    <link href="http://example.com" />
-    <updated>2021-12-05T15:12:12.655Z</updated>
-    <entry>
-        <id>http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/</id>
-        <title>python笔记</title>
-        <link rel="alternate" href="http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/"/>
-        <content type="html">&lt;h2 id=&#34;python笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python笔记&#34;&gt;#&lt;/a&gt; python 笔记&lt;/h2&gt;
+<rss version="2.0">
+    <channel>
+        <title>yumenonaka • Posts by &#34;composites&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 05 Dec 2021 23:12:12 +0800</pubDate>
+        <lastBuildDate>Sun, 05 Dec 2021 23:12:12 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/</guid>
+            <title>python笔记</title>
+            <link>http://example.com/2021/12/05/composites/Python%E7%AC%94%E8%AE%B0/</link>
+            <pubDate>Sun, 05 Dec 2021 23:12:12 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;python笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python笔记&#34;&gt;#&lt;/a&gt; python 笔记&lt;/h2&gt;
 &lt;h3 id=&#34;1整型int&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1整型int&#34;&gt;#&lt;/a&gt; 1. 整型（int）&lt;/h3&gt;
 &lt;p&gt;运算：+&lt;/p&gt;
 &lt;p&gt;​			*&lt;/p&gt;
@@ -29,7 +33,7 @@
 &lt;h2 id=&#34;多条件判断&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#多条件判断&#34;&gt;#&lt;/a&gt; 多条件判断&lt;/h2&gt;
 &lt;p&gt;if A&lt;/p&gt;
 &lt;p&gt;elif B&lt;/p&gt;
-</content>
-        <updated>2021-12-05T15:12:12.655Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
